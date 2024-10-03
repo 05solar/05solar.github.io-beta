@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: C:\Users\82106\Desktop\web page 1\05solar.github.io\assets\media\메이플아일랜드.png
           filters:
             brightness: 1.0
           size: cover
@@ -117,6 +117,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-400"
+        css_class: "bg-primary-700"
         css_style: ""
 ---
