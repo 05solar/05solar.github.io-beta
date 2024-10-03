@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download prize
         url: uploads/prize.pdf
     design:
       css_class: dark
@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: 메이플아일랜드.png
+          filename: starwars.jpg
           filters:
             brightness: 1.0
           size: cover
