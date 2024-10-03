@@ -33,12 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:lotus05f@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/05solar?igsh=MWU4cmw2ZXBwODg3dw==
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/05solar
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -48,11 +46,11 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - front-end
+  - security
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: bachelor's degree in CS
     institution: JBNU 
     date_start: 2022-01-01
     date_end: 2026-12-31
@@ -128,35 +126,35 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Baduk
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: game
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Readings
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 60
+  - name: Japanese
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: HGU big data camp - LLM service 
+    url: https://www.notion.so/557120ec192342d687fcea5e364416e8?pvs=4
+    date: '2024-07-25'
     awarder: Coursera
     icon: coursera
     summary: |
