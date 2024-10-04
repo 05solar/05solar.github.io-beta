@@ -5,7 +5,7 @@
 # Default language
 languages:
   en:
-    languageCode: en-us
+    languageCode: en
     languageName: English
     contentDir: content/en
     weight: 1
