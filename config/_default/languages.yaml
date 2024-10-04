@@ -3,7 +3,6 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-defaultContentLanguage: en # 기본 언어는 en으로 설정
 languages:
   en:
     languageCode: en-us
@@ -11,7 +10,7 @@ languages:
     contentDir: content/en
     weight: 1
   ko:
-    languageCode: ko-kr
+    languageCode: ko
     languageName: 한국어
     contentDir: content/ko
     weight: 2
