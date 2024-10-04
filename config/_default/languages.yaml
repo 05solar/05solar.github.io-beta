@@ -3,7 +3,7 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-languages:
+
   en:
     languageCode: en
     languageName: English
