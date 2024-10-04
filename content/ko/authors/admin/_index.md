@@ -24,7 +24,7 @@ role: 대학생 ( IT지능정보공학과 재학중 )
 
 # 바이오그래피 박스에 표시할 조직/소속
 organizations:
-  - name: JBNU CSAI
+  - name: 전북대학교 IT지능정보공학과 
     url: https://csai.jbnu.ac.kr/csai/index.do
 
 # 소셜 네트워크 링크
