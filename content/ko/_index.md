@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Lee solhaJBNU"
+title: "Lee solha JBNU"
 date: 2024-10-05
 type: landing
 
