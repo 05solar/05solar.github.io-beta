@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 나의 경력'
+      title: '📚 자기소개 요약'
       subtitle: ''
       text: |-
         컴퓨터 공학을 전공하고 있습니다. 
