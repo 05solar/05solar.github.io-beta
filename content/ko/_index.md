@@ -122,21 +122,3 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
-.background-image {
-  position: relative;
-  background-image: url('/assets/media/starsaver.jpg'); /* 이미지 경로 */
-  background-size: cover;
-  background-position: center;
-  height: 100vh; /* 원하는 높이 설정 */
-}
-
-.background-image::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.5); /* 투명도 오버레이 */
-  z-index: 1;
-}
