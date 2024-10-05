@@ -40,17 +40,15 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}' 
+    noticd: 'phone: 010 - 000 - 000 email : lotus05f@gmail.com'
     license:
       enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
   
-  contact_info:
-    enable: true
-    phone: '010 - 6308 - 5518'
-    email: 'lotus05f@gmail.com'
+
 
 # Localization
 locale:
