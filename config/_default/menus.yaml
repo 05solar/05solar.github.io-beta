@@ -13,9 +13,6 @@ main:
   - name: 위치
     url: /#talks
     weight: 12
-  - name: 근황
-    url: /#news
-    weight: 13
   - name: 경력
     url: experience/
     weight: 20
@@ -31,6 +28,4 @@ main:
     url: national/
     weight: 50
 
-  - name: 수업
-    url: teaching/
-    weight: 50
+
