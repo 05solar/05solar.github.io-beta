@@ -75,7 +75,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: 근황
+      title: ''
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
