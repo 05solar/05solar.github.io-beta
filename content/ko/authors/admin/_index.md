@@ -60,7 +60,7 @@ education:
       - 인공지능
       - 컴퓨터 네트워크 
 
-
+slides: "slider-slides"
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
