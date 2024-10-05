@@ -16,7 +16,7 @@ sections:
           align: center
           background:
             image:
-              filename: ai.jpg
+              filename: ai.png
               filters:
                 brightness: 0.5
             position: center
@@ -26,7 +26,7 @@ sections:
           align: center
           background:
             image:
-              filename: medical_ai.jpg
+              filename: medical_ai.png
               filters:
                 brightness: 0.7
             position: right
@@ -36,26 +36,12 @@ sections:
           align: center
           background:
             image:
-              filename: development.jpg
+              filename: development.png
               filters:
                 brightness: 0.7
             position: center
             color: '#555'
-        - title: Mathematics
-          content: '수학적 알고리즘 연구를 위한 최신 자료'
-          align: center
-          background:
-            image:
-              filename: mathematics.jpg
-              filters:
-                brightness: 0.5
-            position: center
-            color: '#333'
-          link:
-            icon: graduation-cap
-            icon_pack: fas
-            text: 'Join Us'
-            url: ../contact/
+
     design:
       slide_height: '350px'
       is_fullscreen: true
