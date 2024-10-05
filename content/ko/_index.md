@@ -40,7 +40,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papaer
+    id: 논문
     content:
       title: 추천 백준문제
       filters:
@@ -61,7 +61,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: 강연
     content:
       title: 나의 위치
       filters:
