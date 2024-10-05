@@ -122,3 +122,5 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
+my phone : 010 - 6308 - 5518
+my email : lotus05f@gmail.com
