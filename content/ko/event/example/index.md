@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: 수업장소 
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 컴퓨터 공학 수업 
+event_url: https://csai.jbnu.ac.kr/csai/index.do
 
-location: Hugo Blox Builder HQ
+location: 전북대학교 공과대학 7호관
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 백제대로 567
+  city: 전주시 덕진구
+  region: 전북
+  postcode: '54896'
+  country: 대한민국
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 컴퓨터 공학 수업을 들으려면 어디로 가야할까
+abstract: '컴퓨터 공학 전공 수업은 주로 전북대학교 공과대학 7호관 열립니다. 전공 수업으로는 알고리즘, 자료구조, 기계학습, 웹 서비스설계, 데이터마이닝, 운영체제, 암호론, 인공지능, 클라우드컴퓨팅, 모바일 프로그래밍 등이 있습니다. 교수님들의 연구실 또한 같은 건물에 위치합니다. '
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '1951-10-06T13:00:00Z'
+#date_end: '2091-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/group-of-fresh-graduates-students-throwing-their-academic-hat-in-the-air-8CqDvPuo_kI)'
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_code: 'https://github.com/05solar'
+#url_pdf: ''
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,18 +58,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects: []
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
