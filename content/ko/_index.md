@@ -30,6 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
+        overlay:
+          color: rgba(0, 0, 0, 0.5)
   - block: markdown
     content:
       title: '📚 자기소개 요약'
