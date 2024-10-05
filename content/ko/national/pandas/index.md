@@ -1,14 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: 한동대 빅데이터 캠프 
+date: 2024-07-26
+external_link: https://github.com/05solar/handongbigdata
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - 빅데이터
+  - LLM
+  - Front-end
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+한동대 빅데이터 캠프에서 프론트엔드를 제작한 내역
 
 <!--change-->
 <!--change-->
