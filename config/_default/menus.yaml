@@ -22,6 +22,11 @@ main:
   - name: 프로젝트
     url: projects/
     weight: 30
+  - parent: 프로젝트
+    name: 학교 프로젝트
+    url: school/
+    weight: 40
+
   - name: 수업
     url: teaching/
-    weight: 40
+    weight: 50
