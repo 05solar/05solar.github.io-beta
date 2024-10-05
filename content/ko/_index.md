@@ -41,7 +41,36 @@ sections:
         현재 프론트 엔드를 배우고 있으며 백엔드와 보안에 대해 관심이 있어 알아가려 시도하고 있습니다. 
     design:
       columns: '1'
-      
+  
+  - block: slider
+    content:
+      slides:
+        - title: 프로젝트
+          content: '한동대 LLM 빅데이터 캠프'
+          align: center
+          background:
+            image:
+              filename: bigdata.png
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#333'
+        - title: 프로젝트
+          content: '자바 팀 프로그래밍'
+          align: center
+          background:
+            image:
+              filename: java.png
+              filters:
+                brightness: 0.7
+            position: right
+            color: '#666'
+      design:
+        slide_height: '350px'
+        is_fullscreen: false
+        loop: true
+        interval: 3000
+
   - block: collection
     id: papers
     content:
