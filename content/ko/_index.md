@@ -152,3 +152,14 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
+
+<div class="slider">
+  {{ range .content.slides }}
+  <div class="slide">
+    <h2>{{ .title }}</h2>
+    <p>{{ .content }}</p>
+    <div class="background" style="background-image: url('/assets/images/{{ .background.image.filename }}'); filter: brightness({{ .background.image.filters.brightness }});">
+    </div>
+  </div>
+  {{ end }}
+</div>
