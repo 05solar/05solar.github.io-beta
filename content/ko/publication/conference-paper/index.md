@@ -22,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
 publication: In *UCPC*
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-
+url_pdf: file:///C:/Users/dlthf/Downloads/conference-paper.pdf
 url_code: 'https://www.acmicpc.net/problem/32032'
 
 url_source: 'https://lotus05f.tistory.com/entry/c-%EB%B0%B1%EC%A4%80-32032-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EB%8C%80%ED%96%89-%EC%84%9C%EB%B9%84%EC%8A%A4'
