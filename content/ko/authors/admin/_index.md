@@ -130,8 +130,4 @@ awards:
 연락처 : 010 - 6308 - 5518
 이메일 : leesolha@jbnu.ac.kr
 
-<style>
-    body {
-        text-align: justify; /* 양쪽 정렬 */
-    }
-</style>
+
