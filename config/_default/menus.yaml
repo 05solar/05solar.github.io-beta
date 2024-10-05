@@ -7,7 +7,7 @@ main:
   - name: 자기소개
     url: /
     weight: 10
-  - name: 논문
+  - name: 코딩문제풀이
     url: /#papers
     weight: 11
   - name: 강연
