@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "Lee solhaJBNU"
+date: 2024-10-05
 type: landing
 
 design:
@@ -32,17 +32,17 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 나의 경력'
       subtitle: ''
       text: |-
-        I'm major in computer science.
-        i'm interested in frontend and trying to learn security.
+        컴퓨터 공학을 전공하고 있습니다. 
+        현재 프론트 엔드를 배우고 있으며 백엔드와 보안에 대해 관심이 있어 알아가려 시도하고 있습니다. 
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: papaer
     content:
-      title: Featured Publications
+      title: 추천 백준문제
       filters:
         folders:
           - publication
@@ -52,7 +52,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: 최근에 푼 백준 문제 
       text: ""
       filters:
         folders:
@@ -63,7 +63,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 나의 위치
       filters:
         folders:
           - event
@@ -73,7 +73,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 근황
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
