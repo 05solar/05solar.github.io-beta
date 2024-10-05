@@ -1,4 +1,3 @@
----
 title: 프로젝트
 date: 2024-06-11
 
@@ -11,7 +10,7 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - school
+        - school
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -26,9 +25,9 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
         - national
-          # - 대전광역시
-          # - 한동대
-          # - 부산광역시
+        # - 대전광역시
+        # - 한동대
+        # - 부산광역시
 
       sort_by: Params.last_name
       sort_ascending: true
@@ -37,4 +36,3 @@ sections:
       show_role: false
       show_social: false
       columns: 2
----
