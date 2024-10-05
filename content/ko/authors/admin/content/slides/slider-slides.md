@@ -11,32 +11,32 @@ sections:
   - block: slider
     content:
       slides:
-        - title: AI
-          content: '의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발'
+        - title: 프로젝트
+          content: '한동대 LLM 빅데이터 캠프'
           align: center
           background:
             image:
-              filename: ai.png
+              filename: bigdata.png
               filters:
                 brightness: 0.5
             position: center
             color: '#333'
-        - title: Medical AI
-          content: '의료 AI를 통한 질병 진단 및 환경 개선'
+        - title: 프로젝트
+          content: '자바 팀 프로그래밍'
           align: center
           background:
             image:
-              filename: medical_ai.png
+              filename: java.png
               filters:
                 brightness: 0.7
             position: right
             color: '#666'
-        - title: Development
-          content: '지식을 공유하고 새로운 주제를 함께 탐구해보세요!'
+        - title: 프로젝트
+          content: '웹서비스 설계 팀프로젝트 '
           align: center
           background:
             image:
-              filename: development.png
+              filename: htmlcssjs.png
               filters:
                 brightness: 0.7
             position: center
@@ -44,7 +44,7 @@ sections:
 
     design:
       slide_height: '350px'
-      is_fullscreen: true
+      is_fullscreen: false
       loop: true
       interval: 3000
 ---
