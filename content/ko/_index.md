@@ -41,64 +41,7 @@ sections:
         현재 프론트 엔드를 배우고 있으며 백엔드와 보안에 대해 관심이 있어 알아가려 시도하고 있습니다. 
     design:
       columns: '1'
-
-  - block: slider
-    content:
-      slides:
-      - title: AI
-        content: 'Just opened last month!'
-        align: center
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-      - title: Medical AI
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Development
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: center
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: Mathematics
-        content: 'Just opened last month!'
-        align: center
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '350px'
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 3000
-
+      
   - block: collection
     id: papers
     content:
