@@ -37,11 +37,11 @@ sections:
       title: '📚 자기소개 요약'
       subtitle: ''
       text: |-
-        컴퓨터 공학을 전공하고 있습니다. 
-        현재 프론트 엔드를 배우고 있으며 백엔드와 보안에 대해 관심이 있어 알아가려 시도하고 있습니다. 
+        <div style="text-align: justify;">
+          저는 컴퓨터 공학을 전공하고 있습니다. 현재 프론트엔드를 배우고 있으며, 백엔드와 보안에도 관심이 있어 알아가려 시도하고 있습니다.
+        </div>
     design:
       columns: '1'
-
 
   - block: collection
     id: papers
@@ -124,4 +124,5 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
+
 
