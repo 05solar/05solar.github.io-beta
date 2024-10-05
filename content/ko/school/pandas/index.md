@@ -1,14 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: 자바 팀 프로젝트 
+date: 2023-06-26
+external_link: https://github.com/05solar/OOP_Project_Team4
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - 자바
+  - 팀 프로젝트
+  - 게임
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+2학년 1학기때 진행했던 객체 지향 프로그래밍 수업에서의 자바 팀 프로젝트 
 
 <!--change-->
 <!--change-->
