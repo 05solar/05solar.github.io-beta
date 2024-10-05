@@ -16,7 +16,7 @@ sections:
           align: center
           background:
             image:
-              filename: bigdata.png
+              filename: assets\media\bigdata.png
               filters:
                 brightness: 0.5
             position: center
@@ -26,7 +26,7 @@ sections:
           align: center
           background:
             image:
-              filename: java.png
+              filename: assets\media\java.png
               filters:
                 brightness: 0.7
             position: right
@@ -36,7 +36,7 @@ sections:
           align: center
           background:
             image:
-              filename: htmlcssjs.png
+              filename: assets\media\htmlcssjs.png
               filters:
                 brightness: 0.7
             position: center
