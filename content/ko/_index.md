@@ -41,6 +41,45 @@ sections:
         현재 프론트 엔드를 배우고 있으며 백엔드와 보안에 대해 관심이 있어 알아가려 시도하고 있습니다. 
     design:
       columns: '1'
+
+  - block: slider
+    content:
+      slides:
+
+      - title: <span style="font-size:90%">AI</span>
+        content: <span style="font-size:90%">의료/항공우주/컨텐츠 등 특성화 분야에 적용 가능한 AI 기술 개발<span style="font-size:90%">
+        align: center
+        background:
+          image:
+            filename: Ai.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">Medical AI</span>
+        content: <span style="font-size:90%">의료AI를 통한 질병 진단 및 환경 개선</span>
+        align: center
+        background:
+          image:
+            filename: medical.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+      - title: <span style="font-size:90%">Healthcare</span>
+        content: <span style="font-size:90%">의료 및 헬스케어 분야에 적용 가능한 AI 기술 개발</span>
+        align: center
+        background:
+          image:
+            filename: healthcare.jpg
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+
+
   - block: collection
     id: papers
     content:
