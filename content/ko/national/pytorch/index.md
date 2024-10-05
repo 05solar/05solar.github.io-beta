@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: DIVE 2024
+date: 2024-10-06
+external_link: https://github.com/05solar/dive2024
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - 해커톤
+  - 프론트엔드
+  - 지도제공서비스
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+dive 2024 해커톤에서 행사 참여자에게 지도와 함께 포인트를 획득할 수 있도록 하는 서비스의 프론트 엔드를 담당하였다.
 
 <!--more-->

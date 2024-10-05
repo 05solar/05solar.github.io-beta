@@ -5,7 +5,7 @@ external_link: https://github.com/05solar/handongbigdata
 tags:
   - 빅데이터
   - LLM
-  - Front-end
+  - 프론트엔드
 ---
 
 한동대 빅데이터 캠프에서 프론트엔드를 제작한 내역
