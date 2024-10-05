@@ -47,10 +47,10 @@ featured: true
 
 links:
 - name: original link
-  url: 'https://www.acmicpc.net/problem/32032'
-#url_pdf: file:///C:/Users/dlthf/Downloads/conference-paper.pdf
+  url: ""
+url_pdf: ""
 url_code: 'https://lotus05f.tistory.com/entry/c-%EB%B0%B1%EC%A4%80-32032-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EB%8C%80%ED%96%89-%EC%84%9C%EB%B9%84%EC%8A%A4'
-#url_source: 'https://www.acmicpc.net/problem/32032'
+url_source: 'https://www.acmicpc.net/problem/32032'
 
 
 # Featured image
