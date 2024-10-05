@@ -16,7 +16,7 @@ main:
   - name: 근황
     url: /#news
     weight: 13
-  - name: 경험
+  - name: 경력
     url: experience/
     weight: 20
   - name: 프로젝트
