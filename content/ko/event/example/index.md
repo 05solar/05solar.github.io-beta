@@ -8,13 +8,14 @@ location: 전북대학교 공과대학 7호관
 address:
   street: 백제대로 567
   city: 전주시 덕진구
-  region: 전북
+  region: 전북git
   postcode: '54896'
   country: 대한민국
-coordinates:
-  latitude: '35.84601324617979'
-  longitude: '127.13444961966684'
-  directions:
+content:
+  coordinates:
+    latitude: '35.84601324617979'
+    longitude: '127.13444961966684'
+   
 
 summary: 컴퓨터 공학 수업을 들으려면 어디로 가야할까
 abstract: '컴퓨터 공학 전공 수업은 주로 전북대학교 공과대학 7호관 열립니다. 전공 수업으로는 알고리즘, 자료구조, 기계학습, 웹 서비스설계, 데이터마이닝, 운영체제, 암호론, 인공지능, 클라우드컴퓨팅, 모바일 프로그래밍 등이 있습니다. 교수님들의 연구실 또한 같은 건물에 위치합니다. '
