@@ -1,5 +1,5 @@
 ---
-title: DIVE 2024
+title: 부산 해커톤
 date: 2024-10-06
 external_link: https://github.com/05solar/dive2024
 tags:
