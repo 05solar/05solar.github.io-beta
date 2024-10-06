@@ -1,5 +1,5 @@
 ---
-title: '[c++] [BOJ] 백준 32032 / 만보기 대행 서비스'
+title: '[c++] [BOJ] baekjoon 32032 / a pedometer service'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,10 +28,10 @@ publication_types: ['article']
 publication: In *UCPC*
 publication_short: In *UCPC*
 
-abstract: 1.  입력을 받는다 2  최소 이동 거리 계산하기 2 - (ⅰ)  보관함이 0 (사옥의 위치) 를 기준으로 한쪽 방향 ( 양수 혹은 음수) 에만 존재하는 경우 2 - (ⅱ) 보관함이 사옥 기준 양쪽에 존재하는 경우 ( 양수, 음수 둘다 존재 ) 2 - (ⅱ)  - ①  case1 - 모든 위치를 왕복한 후 최소이동거리를 두번 더하는 경우 2 - (ⅱ)  - ②  case2 - 가장 왼쪽 위치를 두번 왕복하고 오른쪽을 왕복하며 최소이동거리를 걷는 경우 2 - (ⅱ)  - ③  case3 - 가장 오른쪽 위치를 두번 왕복하고 왼쪽을 왕복하며 최소이동거리를 걷는 경우 2 - (ⅱ)  -  ④  case4 - 1 - 가장 먼 두 지점 사이의 거리가 최소 이동거리보다 큰 경우 > > 가장 먼곳까지 두번 왕복  2 - (ⅱ)  - ⑤  case4 - 2 - 가장 먼 두 지점 사이의 거리가 최소 이동거리보다 작은 경우 >> 가장 먼곳까지 두번 왕복 + 최소 이동거리 한번 이동 3 . 2번 과정에서 구한 이동 거리 중 최소값을 출력
+abstract: 1. Receive input 2 Calculate minimum travel distance 2 - (ⅰ) if the storage box is only in one direction (positive or negative) based on 0 (location of the building) 2 - (ⅱ) if the storage box is on both sides of the building (both positive and negative) 2 - (ⅱ) - (case 1 - If the minimum travel distance is added twice after traveling to and from all locations 2 - (ⅱ) - (case 2 - (ⅱ) - If you return to the leftmost position twice and walk the right minimum travel distance 2 - (ⅱ) - ④ case 3 - If the distance between the two farthest points is greater than the minimum travel distance 2 - (ⅱ) - > case 4 - 1 - If the distance between the two farthest points is less than the minimum travel distance 2 - (ⅱ) - ⑤ case 4 - 2 - If the distance between the two farthest points is less than the minimum travel distance 2 round trips to the farthest place + 1 minimum travel distance 3. Output the minimum of the travel distance obtained in step 2
 
 # Summary. An optional shortened abstract.
-summary:  N명이 고객이 존재하는 서비스에서 휴대폰을 수거 한 채로 Dm를 이동하여야 한다. 휴대폰이 들어있는 각 보관함의 위치는 입력의 두번째 줄의 음수과 양수로 들어오며 사옥의 위치는 0이다. 
+summary:  The data shall move Dm to move Dm to the Dm in the service where the customer exists.The location of each storage in each storage is 0 to the second line of the input, and the location of the input.
 
 tags:
   - Ad hoc
