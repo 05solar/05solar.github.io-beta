@@ -1,14 +1,14 @@
 ---
-title: 자바 팀 프로젝트 
+title: Java team project
 date: 2023-06-26
 external_link: https://github.com/05solar/OOP_Project_Team4
 tags:
-  - 자바
-  - 팀 프로젝트
-  - 게임
+  - Java
+  - Team Project
+  - game
 ---
 
-2학년 1학기때 진행했던 객체 지향 프로그래밍 수업에서의 자바 팀 프로젝트 
+Java Team Project Project in the first semester of the second grade programming class in the second semester
 
 <!--change-->
 <!--change-->
