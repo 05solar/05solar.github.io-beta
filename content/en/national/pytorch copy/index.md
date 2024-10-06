@@ -1,14 +1,14 @@
 ---
-title: 대전 빅데이터 공모전
+title: DeaJeon Bigdata competition
 date: 2024-10-04
 external_link: https://github.com/05solar/DJbigdata
 tags:
-  - 데이터 활용
-  - 빅데이터
-  - 서비스 개발
+  - using data
+  - big data
+  - front-end
 ---
 
-대전 광역시 빅데이터 공모전에 참여하였다 
+In Daejeon metropolitan cities in Daejeon metropolitan City
 
 <!--change-->
 <!--change-->
