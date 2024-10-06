@@ -34,12 +34,12 @@ sections:
           color: rgba(255, 255, 255, 0.5)
   - block: markdown
     content:
-      title: '📚 자기소개 요약'
+      title: '📚 self introduct summury'
       subtitle: ''
       text: |-
         <div style="text-align: center;">
-          컴퓨터 공학을 전공하고 있습니다. <br>
-          현재 프론트 엔드를 배우고 있으며 백엔드와 보안에 대해 관심이 있어 알아가려 시도하고 있습니다.
+          I'm major in CSAI now.  <br>
+          I'm learning the front end, and security is trying to know about Baekend and security.
         </div>
     design:
       columns: '1'
@@ -48,7 +48,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: 추천 백준문제
+      title: BaekJoon Problem recommend
       filters:
         folders:
           - publication
@@ -58,7 +58,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: 최근에 푼 백준 문제 
+      title: Recently solved BaekJoon Problem  
       text: ""
       filters:
         folders:
@@ -69,7 +69,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 나의 위치
+      title: my Location
       filters:
         folders:
           - event
