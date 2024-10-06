@@ -66,7 +66,7 @@ slides: "slider-slides"
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 기술 스택
+  - name: my skills
     items:
       - name: c++
         description: ''
@@ -80,29 +80,29 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: 취미
+  - name: hobby
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 바둑
+      - name: baduk
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: 게임
+      - name: game
         description: ''
         percent: 100
         icon: cat
-      - name: 독서
+      - name: reading
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: 한국어
+  - name: korean
     percent: 100
-  - name: 영어
+  - name: english
     percent: 60
-  - name: 일본어
+  - name: japanese
     percent: 10
 
 # Awards.
@@ -110,10 +110,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 한동대 빅데이터 캠프 - LLM 활용 서비스  
+  - title: handong university big data camp 
     url: https://www.notion.so/557120ec192342d687fcea5e364416e8?pvs=4
     date: '2024-07-25'
-    awarder: 우수상
+    awarder: Excellence Award
     icon: coursera
     summary: |
       한동대 빅데이터 캠프에서 LLM 모델을 활용하는 팀 프로젝트를 진행하였습니다.
