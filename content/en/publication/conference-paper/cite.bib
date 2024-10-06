@@ -1,8 +1,43 @@
-@inproceedings{32032,
-  title={만보기 대행 서비스},
-  author={boj},
-  booktitle={만보기 대행 서비스},
-  pages={1},
-  year={2024},
-  organization={BOJ}
+@inproceedings{Pedometer Agency Service Successful
+ 
+Time-limited memory submission The percentage of people who got the correct answer right
+2 seconds (no additional time) 1024 MB (no additional memory) 310 1599 45.455%
+Problem
+Nowadays, there are many app technology services in the world where you can earn points and earn certain products while performing missions in your daily life. Pedometer missions are widely used by various app technology services, and you can earn some points if you succeed in walking Dm every day.
+
+Since walking Dm every day is more cumbersome than you think, Hanbyul founded Start Hanbyul, a startup that provides pedometer missions for those who are lazy to carry out missions themselves. At Start Hanbyul, storage boxes were installed at 1-meter intervals on the road that extends east and west passing through Start Hanbyul's office building and assigned integer numbers. The number of the storage box that is Am to the east from Start Hanbyul's office building is A, the number of the storage box that is Am to the west is -A, and the number of the storage box in the office building is 0.
+
+You must leave the office building of Start Hanbyul, complete all your customers' missions, and then return to the company. Before you start working, all customers have already left their phones in storage box Xi. You have to go to storage box Xi to pick up your phone yourself, and then move your home more than Dm and return your phone to storage box Xi. You can move by putting multiple phones in the same room at the same time because you carry a large enough bag to carry out your work. Because your travel records are reflected in your work records, you must only move on the road.
+
+Write a program to find the minimum distance that you need to move to accomplish all your customers' missions and return.
+
+Input
+In the first line, the number N of customers and the minimum distance D to walk to perform the mission are given with a blank space between them. (1 ≤ N ≤ 1000; 1 ≤ D ≤ 109)
+
+In the second line, N integer Xi, representing the number of the locker in which each customer places his or her cell phone, is given with a space between them. (-109 ≤ Xi ≤ 109)
+
+The locations of mobile phones may overlap each other or may be in the same place as the start-up separate office building.
+
+All input values are integers.
+
+Output
+On the first line, output the minimum travel distance required to complete all the missions of the N customers and return.
+
+If the correct answer is not an integer, it outputs the largest integer less than or equal to the correct answer.
+
+Enter Example 1 
+3 5
+-8 1 5
+Example Output 1 
+36
+Note
+It is best to use the method below.
+
+Pick up the second customer's cell phone.
+Pick up the third customer's cell phone.
+After moving to the 7.5m east of Start Hanbyeol's office building, return and return to return the third customer's cell phone.
+Return the second customer's cell phone.
+Pick up the first customer's cell phone.
+After moving to the 10.5m west of Start Hanbyeol's office building, return and return to return the first customer's cell phone.
+Go to Start Hanbyeol's office building.
 }
