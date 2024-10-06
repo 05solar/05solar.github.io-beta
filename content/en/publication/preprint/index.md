@@ -1,5 +1,5 @@
 ---
-title: "백준[c++] [BOJ] baekjoon 23253 / The data structure is absolutely superb"
+title: "[c++] [BOJ] baekjoon 23253 / The data structure is absolutely superb"
 authors:
 - admin
 date: "2024-10-06T00:00:00Z"
