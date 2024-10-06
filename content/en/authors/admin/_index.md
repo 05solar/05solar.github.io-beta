@@ -116,18 +116,18 @@ awards:
     awarder: Excellence Award
     icon: coursera
     summary: |
-      한동대 빅데이터 캠프에서 LLM 모델을 활용하는 팀 프로젝트를 진행하였습니다.
-      해당 팀 프로젝트에서 프론트엔드를 담당했습니다.
-      저희 팀은 AI 허브 사이트에서 제공하는 '채용 면접 인터뷰 데이터'를 사용하여 EEVE 모델을 fine-tuning한 후, '면접 질문 메이커'라는 웹사이트를 제작하였습니다.
-      HTML, CSS, JavaScript를 사용하여 웹사이트의 프론트엔드를 구축하였으며, XMLHttpRequest를 이용해 사용자의 입력 데이터를 백엔드 서버로 전송하고, 서버로부터 받은 EEVE 모델의 응답을 실시간으로 웹사이트에 표시하는 기능을 구현했습니다.
+      Handong University's big data camp carried out a team project using LLM models.
+      I was in charge of the front end in that team project.
+      After fine-tuning the EEVE model using the 'Hiring Interview Interview Data' provided by the AI hub site, our team produced a website called 'Interview Question Maker'.
+      Using HTML, CSS, and JavaScript, the website's front end was built, XMLHttpRequest was used to send user input data to the backend server, and the response of the EEVE model received from the server was displayed on the website in real time.
 
 
 ---
 
 ## 자기소개
 
-전북대학교에서 컴퓨터 공학을 전공하고 있는 3학년 학생이며 현재 프론트엔드와 벡엔드를 공부 중에 있습니다. 희망 진로는 풀스택 개발자 입니다. 컴퓨터 네트워크와 보안 분야에도 관심이 있어 보안에 관한 공부를, 웹해킹에 대한 공부를 할 예정입니다.                     .
-연락처 : 010 - 6308 - 5518
-이메일 : leesolha@jbnu.ac.kr
+It is a third grade student in Jeonbuk University, which is currently studying computer training with professional professionals.Hope is a full contact developer.It is interested in computer network and security fields, and security areas will study on security areas.
+Contact: 010 - 6308 - 5518
+Email: Leah@jbnu.ac.kr
 
 
