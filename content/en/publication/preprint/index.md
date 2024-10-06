@@ -1,5 +1,5 @@
 ---
-title: "백준[c++] [BOJ] 백준 23253 / 자료구조는 정말 최고야"
+title: "백준[c++] [BOJ] baekjoon 23253 / The data structure is absolutely superb"
 authors:
 - admin
 date: "2024-10-06T00:00:00Z"
@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: "In *UCPC*"
 publication_short: "In *UCPC*"
 
-abstract: 찬우는 스택을 배운 뒤 자료구조 과목과 사랑에 빠지고 말았다.자료구조 과목만을 바라보기로 다짐한 찬우는 나머지 과목의 교과서 N권을 방 구석에 M개의 더미로 아무렇게나 쌓아 두었다. 하지만 중간고사가 다가오자 더 이상 자료구조만 공부할 수는 없었고, 결국 찬우는 팽개쳤던 나머지 과목의 교과서를 정리하고 번호순으로 나열하려 한다.N권의 교과서는 각각 1부터 N까지의 번호가 매겨져 있다. 찬우는 각 더미의 맨 위에 있는 교과서만 꺼낼 수 있으며, 반드시 교과서를 꺼낸 순서대로 나열해야 하기 때문에 번호순으로 나열하기 위해서는 1번, 2번, … N - 1$번, N번 교과서 순으로 꺼내야 한다. 교과서를 올바르게 나열할 수 없다면 중간고사 공부를 때려치겠다는 찬우를 위해 번호순으로 나열할 수 있는지 여부를 알려주는 프로그램을 작성해 주자.
+abstract: After learning Stack, Chanwoo fell in love with the data structure subject. Chanwoo, who resolved to look only at the data structure subject, randomly stacked the N textbooks for the rest of the subjects into M piles in the corner of the room. However, as the midterm exam approached, I could no longer study only the data structure, and in the end, Chanwoo tries to organize and list the textbooks for the rest of the subjects in number order. Each of the N textbooks is numbered from 1 to N. Chanwoo can only take out the textbooks at the top of each stack, and he must list them in order of number because he must list them… Textbooks N-1$ and N must be taken out in order. If you can't list textbooks correctly, let's write a program for Chanwoo who wants to give up his midterm studies.
 
 # Summary. An optional shortened abstract.
-summary: 스택으로 푸는 문제라고 생각했으나 애드혹 문제임을 생각하면 그렇게 푸는 것이 아닌것같다. 더미를 검사하여 내림차순으로 정렬되어 있는지를 검사하는 식으로 풀었다 
+summary: I thought it was a problem to solve it, but if I think it's a problem.It was solved by checking whether it is aligned in order to inspect the inner cream car
 
 tags:
 - Ad Hoc
