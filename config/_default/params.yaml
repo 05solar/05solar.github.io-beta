@@ -13,9 +13,10 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: '전북대 이솔하'
     description: '전북대학교 이솔하의 포토폴리오 사이트'
     twitter: 'GetResearchDev'
+    og_image: 'assets\media\myphoto.jpg'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
