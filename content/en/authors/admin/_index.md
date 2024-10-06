@@ -14,6 +14,7 @@ status:
   icon: 🖥️
 
 # 이 사이트의 주요한 이용자인가? (true/false)
+#dkkk
 superuser: true
 
 # 작성자 목록에서 작성자 이름을 강조하기 (true/false)
@@ -24,7 +25,7 @@ role: 대학생 ( IT지능정보공학과 재학중 )
 
 # 바이오그래피 박스에 표시할 조직/소속
 organizations:
-  - name: JBNU CSAI
+  - name: 전북대학교 IT지능정보공학과 
     url: https://csai.jbnu.ac.kr/csai/index.do
 
 # 소셜 네트워크 링크
@@ -60,7 +61,7 @@ education:
       - 인공지능
       - 컴퓨터 네트워크 
 
-
+slides: "slider-slides"
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -123,6 +124,10 @@ awards:
 
 ---
 
-## About Me
+## 자기소개
 
-전북대학교에서 컴퓨터 공학을 전공하고 있는 3학년 학생이며 현재 프론트엔드와 벡엔드를 공부 중에 있습니다. 희망 진로는 아직 정해지지 않았으며 컴퓨터 네트워크와 보안 분야에도 관심이 있습니다. 
+전북대학교에서 컴퓨터 공학을 전공하고 있는 3학년 학생이며 현재 프론트엔드와 벡엔드를 공부 중에 있습니다. 희망 진로는 풀스택 개발자 입니다. 컴퓨터 네트워크와 보안 분야에도 관심이 있어 보안에 관한 공부를, 웹해킹에 대한 공부를 할 예정입니다.                     .
+연락처 : 010 - 6308 - 5518
+이메일 : leesolha@jbnu.ac.kr
+
+
