@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 이솔하
+title: LEE SOL HA
 
 # Name pronunciation (optional)
-name_pronunciation: Sol Ha Lee
+name_pronunciation: Sol-Ha Lee
 
 # Full name (for SEO)
-first_name: 솔하
-last_name: 이
+first_name: SOLHA
+last_name: LEE
 
 # Status emoji
 status:
@@ -21,11 +21,11 @@ superuser: true
 highlight_name: true
 
 # 역할/직위/태그라인
-role: 대학생 ( IT지능정보공학과 재학중 ) 
+role: college student ( major in CSAI ) 
 
 # 바이오그래피 박스에 표시할 조직/소속
 organizations:
-  - name: 전북대학교 IT지능정보공학과 
+  - name: JBNU CSAI
     url: https://csai.jbnu.ac.kr/csai/index.do
 
 # 소셜 네트워크 링크
@@ -43,13 +43,13 @@ profiles:
 
 
 interests:
-  - 인공지능
-  - 프론트엔드
-  - 보안
+  - AI
+  - Front-end
+  - security
 
 education:
-  - area: IT지능정보공학과 재학중 
-    institution: 전북대학교
+  - area: major in CSAI now
+    institution: JBNU
     date_start: 2022-01-01
     date_end: 2026-12-31
     
@@ -57,9 +57,9 @@ education:
       GPA: 3.5/4.5
 
       Courses included:
-      - 알고리즘
-      - 인공지능
-      - 컴퓨터 네트워크 
+      - Algorithm
+      - AI
+      - Computer network 
 
 slides: "slider-slides"
 
