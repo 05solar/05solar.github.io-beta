@@ -123,7 +123,7 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-700"
+        css_class: "bg-primary-900"
         css_style: ""
 ---
 
