@@ -16,7 +16,7 @@ marketing:
     org_name: '전북대 이솔하'
     description: '전북대학교 이솔하의 포토폴리오 사이트'
     twitter: 'GetResearchDev'
-    og_image: 'static\uploads\icon.jpg'
+    og_image: 'static\images\icon.png'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
