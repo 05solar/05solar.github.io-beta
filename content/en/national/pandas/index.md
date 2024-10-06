@@ -1,14 +1,14 @@
 ---
-title: 한동대 빅데이터 캠프 
+title: handong university bigdata camp
 date: 2024-07-26
 external_link: https://github.com/05solar/handongbigdata
 tags:
-  - 빅데이터
+  - bigdata
   - LLM
-  - 프론트엔드
+  - front-end
 ---
 
-한동대 빅데이터 캠프에서 프론트엔드를 제작하였다. 
+In Han Dong-dae Big Data camp, produced professional data camp.
 
 <!--change-->
 <!--change-->
