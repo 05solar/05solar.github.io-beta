@@ -30,7 +30,7 @@ featured: true
 links:
 - name: original link
   url: https://www.acmicpc.net/problem/23253
-url_pdf: file:///C:/Users/dlthf/Downloads/conference-paper.pdf
+url_pdf: ""
 url_code: 'https://lotus05f.tistory.com/entry/%EB%B0%B1%EC%A4%80c-BOJ-%EB%B0%B1%EC%A4%80-23253-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%8A%94-%EC%A0%95%EB%A7%90-%EC%B5%9C%EA%B3%A0%EC%95%BC'
 url_source: 'https://www.acmicpc.net/problem/23253'
 

@@ -47,7 +47,7 @@ featured: true
 
 links:
 - name: original link
-  url: ""
+  url: 'https://www.acmicpc.net/problem/32032'
 url_pdf: ""
 url_code: 'https://lotus05f.tistory.com/entry/c-%EB%B0%B1%EC%A4%80-32032-%EB%A7%8C%EB%B3%B4%EA%B8%B0-%EB%8C%80%ED%96%89-%EC%84%9C%EB%B9%84%EC%8A%A4'
 url_source: 'https://www.acmicpc.net/problem/32032'
@@ -57,7 +57,7 @@ url_source: 'https://www.acmicpc.net/problem/32032'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EB%82%AE%EC%97%90-%EB%8F%84%EB%A1%9C-%ED%91%9C%EC%A7%80%ED%8C%90-%EA%B7%BC%EC%B2%98%EC%97%90-%EC%84%9C-%EC%9E%88%EB%8A%94-%EA%B2%80%EC%9D%80%EC%83%89-%EC%83%81%EC%9D%98%EB%A5%BC-%EC%9E%85%EC%9D%80-%EB%82%A8%EC%9E%90-h1itWfWeQM4)'
-  focal_point: ''
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
