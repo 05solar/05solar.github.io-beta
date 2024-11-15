@@ -17,7 +17,7 @@
 # 링크
 
 이메일 : lotus05f@gmail.com / dlthfgksla@naver.com
-전화번호 : 010 -6308-5518
+전화번호 : 010
 깃허브 : https://github.com/05solar
 백준 : lotus05f
 티스토리 : https://lotus05f.tistory.com/
