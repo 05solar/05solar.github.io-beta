@@ -127,7 +127,7 @@ awards:
 ## self introduce
 
 It is a third grade student in Jeonbuk University, which is currently studying computer training with professional professionals.Hope is a full contact developer.It is interested in computer network and security fields, and security areas will study on security areas.
-Contact: 010 - 6308 - 5518
-Email: Leah@jbnu.ac.kr
+Contact: 010 - XXXX- XXXX
+Email: Leesolha@jbnu.ac.kr
 
 
